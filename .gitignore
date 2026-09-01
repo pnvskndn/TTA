@@ -1,0 +1,12 @@
+TTA/
+adopter/
+venv/
+.venv/
+__pycache__/
+*.pyc
+data/cache/*
+data/processed/*
+outputs/*
+*.pkl
+.streamlit/secrets.toml
+.DS_Store
