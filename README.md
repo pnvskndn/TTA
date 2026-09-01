@@ -1,6 +1,6 @@
 # Technology Adoption Analyzer
 
-**Live app: <PASTE_STREAMLIT_URL_HERE>**
+**Live app: <https://technology-adoption-analyzer.streamlit.app/>**
 
 An ML research platform investigating what actually drives renewable energy
 adoption across **44 countries (2001–2021)**, built on World Bank open data and
